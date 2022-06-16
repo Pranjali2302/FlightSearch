@@ -1,0 +1,142 @@
+[
+    {
+        "city": "Mumbai",
+        "country": "India",
+        "iata": "BOM",
+        "airport": "Chhatrapati Shivaji International Airport",
+        "cc": "IN"
+    },
+    {
+        "city": "Delhi",
+        "country": "India",
+        "iata": "DEL",
+        "airport": "Delhi Airport",
+        "cc": "IN"
+    },
+    {
+        "city": "Bangkok",
+        "country": "Thailand",
+        "iata": "BKK",
+        "airport": "Suvarnabhumi Airport",
+        "cc": "TH"
+    },
+    {
+        "city": "Bangalore",
+        "country": "India",
+        "iata": "BLR",
+        "airport": "Bengaluru International Airport",
+        "cc": "IN"
+    },
+    {
+        "city": "Pune",
+        "country": "India",
+        "iata": "PNQ",
+        "airport": "Pune Airport",
+        "cc": "IN"
+    },
+    {
+        "city": "Hyderabad",
+        "country": "India",
+        "iata": "HYD",
+        "airport": "Rajiv Gandhi International Airport",
+        "cc": "IN"
+    },
+    {
+        "city": "Kolkata",
+        "country": "India",
+        "iata": "CCU",
+        "airport": "Netaji Subhash Chandra Bose International Airport",
+        "cc": "IN"
+    },
+    {
+        "city": "Chennai",
+        "country": "India",
+        "iata": "MAA",
+        "airport": "Madras,Chennai International Airport",
+        "cc": "IN"
+    },
+    {
+        "city": "Goa",
+        "country": "India",
+        "iata": "GOI",
+        "airport": "Dabolim Goa International Airport",
+        "cc": "IN"
+    },
+    {
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "iata": "DXB",
+        "airport": "Dubai International Airport",
+        "cc": "AE"
+    },
+    {
+        "city": "Singapore",
+        "country": "Singapore",
+        "iata": "SIN",
+        "airport": "Changi Airport",
+        "cc": "SG"
+    },
+    {
+        "city": "Kathmandu",
+        "country": "Nepal",
+        "iata": "KTM",
+        "airport": "Tribhuvan International Airport",
+        "cc": "NP"
+    },
+    {
+        "city": "Abu Dhabi",
+        "country": "United Arab Emirates",
+        "iata": "AUH",
+        "airport": "Abu Dhabi International Airport",
+        "cc": "AE"
+    },
+    {
+        "city": "Sharjah",
+        "country": "United Arab Emirates",
+        "iata": "SHJ",
+        "airport": "Sharjah International Airport",
+        "cc": "AE"
+    },
+    {
+        "city": "New York",
+        "country": "US",
+        "iata": "NYC",
+        "airport": "All Airports",
+        "cc": "US"
+    },
+    {
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LON",
+        "airport": "All Airports",
+        "cc": "GB"
+    },
+    {
+        "city": "Hong Kong",
+        "country": "Hong Kong",
+        "iata": "HKG",
+        "airport": "Hong Kong International Airport",
+        "cc": "HK"
+    },
+    {
+        "city": "San Francisco",
+        "country": "US",
+        "iata": "SFO",
+        "airport": "San Francisco International Airport",
+        "cc": "US"
+    },
+    {
+        "city": "London",
+        "country": "United Kingdom",
+        "iata": "LHR",
+        "airport": "Heathrow Airport",
+        "cc": "GB"
+    },
+    {
+        "city": "Paris",
+        "country": "France",
+        "iata": "CDG",
+        "airport": "Charles de Gaulle Airport",
+        "cc": "FR"
+    }
+]
